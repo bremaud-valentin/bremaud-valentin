@@ -13,11 +13,11 @@
 <h1 align="left">About me</h1>
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/valentin-bremaud-688ab8266/" target="blank">
+  <a href="https://portofolio-bremaudvalentin.com/" target="blank">
     <img align="center" src="https://zupimages.net/up/24/37/wm6t.png" alt="portfolio" height="40" width="40" />
   </a>
   &nbsp;
-  <a href="https://portofolio-bremaudvalentin.com/" target="blank">
+  <a href="https://www.linkedin.com/in/valentin-bremaud-688ab8266/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
   </a>
   <br>
